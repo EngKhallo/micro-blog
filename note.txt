@@ -1,0 +1,12 @@
+# Filter Method :
+const names = ["Khalid", "Abdi", "Guleid", "Ismail"];
+
+{names.filter(name => name.includes('a')).map(filterNames => (
+            <li>{'Filtered Names Are : ' + filterNames}</li>
+        ))}
+        <h4>{names.filter(name => name.includes('a'))}</h4>
+
+
+
+# show the following if the author is Mario 
+<BlogList blogs={blogs.filter((blog) => blog.author === 'Mario')} title="Mario Blogs"/> 
