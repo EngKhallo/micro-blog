@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing",
+      "author": "Yash",
+      "id": 1
+    },
+    {
+      "title": "My First Blog",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing",
+      "author": "Kennedy",
+      "id": 2
+    },
+    {
+      "title": "Web Dev Simplifying",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing",
+      "author": "Ahmed",
+      "id": 3
+    }
+  ]
+}
