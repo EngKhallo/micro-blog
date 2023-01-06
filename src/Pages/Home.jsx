@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import useFetch from "../Hooks/useFetch";
-import BlogList from "./BlogList";
-import Navigation from "./Navigation";
+import BlogList from "../Components/BlogList";
+import Navigation from "../Components/Navigation";
 
 const Home = () => {
   const {blogs, isPending, error, setBlogs} = useFetch("http://localhost:8000/blogs");
