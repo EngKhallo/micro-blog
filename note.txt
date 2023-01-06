@@ -10,3 +10,11 @@ const names = ["Khalid", "Abdi", "Guleid", "Ismail"];
 
 # show the following if the author is Mario 
 <BlogList blogs={blogs.filter((blog) => blog.author === 'Mario')} title="Mario Blogs"/> 
+
+
+npx json-server --watch data/db.json --port 8000
+- use the previous command to run a fake restAPI 
+
+
+Additional Features:
+- Filtering blogs with navigation properties

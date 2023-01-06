@@ -16,6 +16,21 @@
   border-bottom: 1px solid #f2f2f2;
 }
 
+.navbars{
+  margin-left: 10px;
+  display: flex;
+  padding: 20px;
+}
+
+.navbars button{
+  margin-left: 20px;
+  background-color: #f1356d;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  border: none;
+}
 .navbar h1 {
   color: #f1356d;
 }

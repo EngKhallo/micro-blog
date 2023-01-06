@@ -1,5 +1,6 @@
 import Home from "./Components/Home";
 import Navbar from "./Components/Navbar";
+import Navigation from "./Components/Navigation";
 
 function App() {
   return (
