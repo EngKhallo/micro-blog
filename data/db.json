@@ -1,13 +1,6 @@
 {
   "blogs": [
     {
-      "category": "Web",
-      "title": "Opening Party",
-      "body": "lorem ipsum dolor sit amet, consectetur adipiscing",
-      "author": "Yash",
-      "id": 1
-    },
-    {
       "category": "Mobile",
       "title": "My First Blog",
       "body": "lorem ipsum dolor sit amet, consectetur adipiscing",
@@ -54,12 +47,6 @@
     {
       "title": "fmsdbg",
       "body": "jhdbsf",
-      "author": "khalid",
-      "id": 9
-    },
-    {
-      "title": "fmsdbg",
-      "body": "jhdbsf",
       "author": "ahmed",
       "id": 10
     },
@@ -80,6 +67,12 @@
       "body": "jhfw",
       "author": "ahmed",
       "id": 13
+    },
+    {
+      "title": "Web Dev Simplification",
+      "body": "jhdsaf",
+      "author": "ahmed",
+      "id": 14
     }
   ]
 }
