@@ -22,7 +22,6 @@ const BlogDetails = () => {
       {/* <h2>Blog Details - {id}</h2> */}
       {blogs && (
         <article>
-        <h2>{blogs.id}</h2>
           <h2>{blogs.title}</h2>
           <h4>Written by {blogs.author}</h4>
           <div>{blogs.body}</div>
